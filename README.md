@@ -1,7 +1,8 @@
 # Business Data Analytics Portfolio
 
+Hi, I’m Chinonye Anams, a data analyst skilled in Excel, SQL, Python, and Power BI.
 
-Hi, I’m Chinonye Anams – a data analyst with a strong foundation in SQL, Python, Excel, and Power BI, passionate about turning complex data into actionable business insights. This portfolio showcases my hands-on work in HR analytics, loan default risk modeling.
+This portfolio showcases hands-on analytics projects focused on business insights, predictive modeling, and interactive dashboards. The projects demonstrate end-to-end workflows including data cleaning, exploratory analysis, machine learning, and data visualization.
 
 
 
@@ -18,18 +19,22 @@ This portfolio demonstrates end-to-end analytics workflows, including:
 - Business Intelligence Dashboards – Interactive KPIs, segment analysis, and story-driven insights
 
 
-
 ## Featured Projects
 [**HR Attrition Analysis (Excel Dashboard)**](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/tree/main/01_hr_attrition_analysis) 
   - Identified factors driving employee turnover
   - Built an interactive Excel dashboard for HR decision-making
   - Key insights: overtime, tenure, department, and job satisfaction influence attrition
 
+**HR Attrition Dashboard**
+![HR Attrition Dashboard](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/blob/main/01_hr_attrition_analysis/05_images/hr_attrition_dashboard.png)
+
 [**Loan Default Risk Analysis (SQL | Python | Power BI)**](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/tree/main/02_loan_default_risk_analysis)
   - Explored borrower characteristics and default risk
   - Built predictive models to flag high-risk loans
   - Developed a Power BI dashboard for portfolio monitoring
 
+**Loan Default Risk Dashboard**
+![Loan Risk Dashboard](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/blob/main/02_loan_default_risk_analysis/04_powerbi/loan_default_dashboard.png)
 
 ## Other Notable Work
 Beyond the business-focused analytics in this portfolio, I’ve also completed public health analytics projects that showcase similar data skills:  
