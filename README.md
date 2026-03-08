@@ -1,9 +1,9 @@
 # Business Data Analytics Portfolio
----
+
 
 Hi, I’m Chinonye Anams – a data analyst with a strong foundation in SQL, Python, Excel, and Power BI, passionate about turning complex data into actionable business insights. This portfolio showcases my hands-on work in HR analytics, loan default risk modeling.
 
----
+
 
 ## What’s Inside
 
@@ -17,7 +17,7 @@ This portfolio demonstrates end-to-end analytics workflows, including:
 
 - Business Intelligence Dashboards – Interactive KPIs, segment analysis, and story-driven insights
 
----
+
 
 ## Featured Projects
 [**HR Attrition Analysis (Excel Dashboard)**](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/tree/main/01_hr_attrition_analysis) 
@@ -30,7 +30,6 @@ This portfolio demonstrates end-to-end analytics workflows, including:
   - Built predictive models to flag high-risk loans
   - Developed a Power BI dashboard for portfolio monitoring
 
----
 
 ## Other Notable Work
 Beyond the business-focused analytics in this portfolio, I’ve also completed public health analytics projects that showcase similar data skills:  
@@ -39,14 +38,13 @@ Beyond the business-focused analytics in this portfolio, I’ve also completed p
 - [Measles Vaccination Coverage Analysis (Excel)](https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/tree/main/05_Excel_Immunization_Coverage)
 
 
----
 
 ## Skills Highlight
 
 Tools & Technologies: SQL, Python (pandas, numpy, matplotlib, seaborn), Excel, Power BI
 Techniques: Data Cleaning, Feature Engineering, Pivot Analysis, EDA, Predictive Modeling, Dashboard Design, Data Storytelling
 
----
+
 
 ## Portfolio Structure
 ```
@@ -56,7 +54,7 @@ Business_Data_Analytics_Portfolio/
 ├── 02_loan_default_risk_analysis/
 └── README.md
 ```
----
+
 
 ## Let’s Connect
 I’m eager to apply data-driven insights to help organizations make smarter business decisions.
