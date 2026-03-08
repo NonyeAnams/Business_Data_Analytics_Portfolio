@@ -1,7 +1,13 @@
 # HR Attrition Analysis Dashboard (Excel)
 ---
 
-## Project Overview
+## Dashboard Preview
+
+![HR Attrition Dashboard](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/blob/main/01_hr_attrition_analysis/05_images/hr_attrition_dashboard.png)
+
+---
+
+## Overview
 
 Employee attrition is a critical challenge for organizations because high turnover leads to increased recruitment costs, loss of institutional knowledge, and reduced productivity. Understanding the factors that drive employee departures helps HR teams design effective retention strategies.
 
@@ -19,145 +25,6 @@ This project aims to answer key questions such as:
 
 
 The analysis was conducted using Microsoft Excel, focusing on data cleaning, feature engineering, pivot analysis, and dashboard design.
-
----
-
-## Dashboard Preview
-
-![HR Attrition Dashboard](dashboard_preview.png)
-
----
-
-## Tools & Skills Demonstrated
-
-- Data Cleaning
-
-- Feature Engineering
-
-- Pivot Table Analysis
-
-- Dashboard Design
-
-- Data Visualization
-
--Business Insight Development
-
-Tool used:
-
-- Microsoft Excel
-
----
-
-## Dataset
-
-The dataset used in this project is the IBM HR Attrition dataset, which contains information about employee demographics, job roles, compensation, job satisfaction, and employment history.
-
-Key variables include:
-- Age
-- Department
-- Job Role
-- Monthly Income
-- Overtime
-- Job Satisfaction
-- Years at Company
-- Distance from Home
-- Attrition
-
----
-
-## Data Preparation
-
-The dataset was cleaned and prepared in Excel before analysis.
-
-Steps performed:
-
-1. Removed unused columns (EmployeeCount, Over18, StandardHours)
-
-2. Formatted numeric fields for consistency
-
-3. Converted the dataset into an Excel table for easier analysis
-
-4. Created additional analytical variables to support business insights
-
-
-### Engineered Features
-
-Several derived columns were created to support deeper analysis:
-
-- Age Group – categorizes employees by age range
-
-- Income Band – groups employees by salary levels
-
-- Tenure Group – groups employees by years at the company
-
-- Education Level – descriptive labels created using the CHOOSE() function
-
-- Job Satisfaction Level
-
-- Environment Satisfaction Level
-
-- Work Life Balance Level
-
-- AttritionFlag – numeric indicator for attrition used in pivot calculations
-
----
-
-## Analysis
-
-Pivot tables were created to analyze attrition patterns across multiple dimensions.
-
-### Dashboard Analysis
-
-The dashboard presents key workforce metrics and visualizations including:
-
-- Workforce distribution
-
-- Attrition rate
-
-- Attrition by department
-
-- Attrition by age group
-
-- Attrition by overtime
-
-### Exploratory Analysis
-
-Additional pivot tables were created to examine deeper patterns:
-
-- Attrition by Job Satisfaction
-
-- Attrition by Tenure Group
-
-- Attrition by Income Band
-
-These analyses help identify employee segments with elevated attrition risk.
-
----
-
-## Dashboard Features
-
-The Excel dashboard provides an interactive overview of workforce trends.
-
-**Key Performance Indicators (KPIs)**
-- Total Employees
-- Employees Left
-- Attrition Rate
-- Average Tenure
-- Average Salary
-
-**Visualizations**
-- Workforce Distribution
-- Attrition by Department
-- Attrition by Age Group
-- Attrition by Overtime
-
-**Interactive Filters (Slicers)**
-Users can dynamically filter the dashboard using:
-- Tenure Group
-- Income Band
-- Gender
-- Education Level
-These filters allow HR teams to explore attrition patterns across different employee segments.
 
 ---
 
@@ -197,6 +64,112 @@ Based on the analysis, organizations may consider the following actions:
 
 ---
 
+## Tools & Skills Demonstrated
+
+- Data Cleaning
+
+- Feature Engineering
+
+- Pivot Table Analysis
+
+- Dashboard Design
+
+- Data Visualization
+
+- Business Insight Development
+
+Tool used:
+
+- Microsoft Excel
+
+---
+
+## Dataset
+
+The dataset used in this project is the IBM HR Attrition dataset, which contains information about employee demographics, job roles, compensation, job satisfaction, and employment history.
+
+Key variables include:
+- Age
+- Department
+- Job Role
+- Monthly Income
+- Overtime
+- Job Satisfaction
+- Years at Company
+- Distance from Home
+- Attrition
+
+---
+
+## Data Preparation
+
+The dataset was cleaned and prepared in Excel before analysis.
+
+Steps performed:
+
+1. Removed unused columns (EmployeeCount, Over18, StandardHours)
+
+2. Formatted numeric fields for consistency
+
+3. Converted the dataset into an Excel table for easier analysis
+
+4. Created additional analytical variables to support business insights
+
+
+**Engineered Features**
+
+Several derived columns were created to support deeper analysis:
+
+- Age Group – categorizes employees by age range
+
+- Income Band – groups employees by salary levels
+
+- Tenure Group – groups employees by years at the company
+
+- Education Level – descriptive labels created using the CHOOSE() function
+
+- Job Satisfaction Level
+
+- Environment Satisfaction Level
+
+- Work Life Balance Level
+
+- AttritionFlag – numeric indicator for attrition used in pivot calculations
+
+---
+
+## Analysis
+
+Pivot tables were created to analyze attrition patterns across multiple dimensions.
+
+**Dashboard Analysis**
+
+The dashboard presents key workforce metrics and visualizations including:
+
+- Workforce distribution
+
+- Attrition rate
+
+- Attrition by department
+
+- Attrition by age group
+
+- Attrition by overtime
+
+**Exploratory Analysis**
+
+Additional pivot tables were created to examine deeper patterns:
+
+- Attrition by Job Satisfaction
+
+- Attrition by Tenure Group
+
+- Attrition by Income Band
+
+These analyses help identify employee segments with elevated attrition risk.
+
+---
+
 ## Project Structure
 ```
 01_hr_attrition_analysis
@@ -221,5 +194,5 @@ This analysis highlights key drivers of employee attrition and provides insights
 ---
 
 ## Author
-**Chinonye Anams**
-Data Analyst
+**Chinonye Anams**          
+Data Analyst | Turning complex data into actionable business insights
