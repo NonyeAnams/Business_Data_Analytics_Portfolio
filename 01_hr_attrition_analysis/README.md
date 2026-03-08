@@ -1,11 +1,10 @@
 # HR Attrition Analysis Dashboard (Excel)
----
 
 ## Dashboard Preview
 
 ![HR Attrition Dashboard](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/blob/main/01_hr_attrition_analysis/05_images/hr_attrition_dashboard.png)
 
----
+
 
 ## Overview
 
@@ -26,7 +25,7 @@ This project aims to answer key questions such as:
 
 The analysis was conducted using Microsoft Excel, focusing on data cleaning, feature engineering, pivot analysis, and dashboard design.
 
----
+
 
 ## Key Insights
 
@@ -48,7 +47,7 @@ Several patterns emerged from the analysis:
 
 These findings highlight workload, employee engagement, and early-career retention as important factors influencing employee turnover.
 
----
+
 
 ## Recommendations
 
@@ -62,7 +61,6 @@ Based on the analysis, organizations may consider the following actions:
 
 - Monitor employee satisfaction metrics as part of ongoing workforce management.
 
----
 
 ## Tools & Skills Demonstrated
 
@@ -82,7 +80,7 @@ Tool used:
 
 - Microsoft Excel
 
----
+
 
 ## Dataset
 
@@ -99,7 +97,7 @@ Key variables include:
 - Distance from Home
 - Attrition
 
----
+
 
 ## Data Preparation
 
@@ -136,7 +134,7 @@ Several derived columns were created to support deeper analysis:
 
 - AttritionFlag – numeric indicator for attrition used in pivot calculations
 
----
+
 
 ## Analysis
 
@@ -168,7 +166,7 @@ Additional pivot tables were created to examine deeper patterns:
 
 These analyses help identify employee segments with elevated attrition risk.
 
----
+
 
 ## Project Structure
 ```
@@ -185,13 +183,13 @@ These analyses help identify employee segments with elevated attrition risk.
 │
 └── README.md
 ```
----
+
 
 ## Conclusion
 
 This analysis highlights key drivers of employee attrition and provides insights that can help organizations improve employee retention and workforce management strategies.
 
----
+
 
 ## Author
 **Chinonye Anams**          
