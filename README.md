@@ -2,6 +2,7 @@
 ---
 
 Hi, I’m Chinonye Anams – a data analyst with a strong foundation in SQL, Python, Excel, and Power BI, passionate about turning complex data into actionable business insights. This portfolio showcases my hands-on work in HR analytics, loan default risk modeling.
+
 ---
 
 ## What’s Inside
@@ -19,12 +20,12 @@ This portfolio demonstrates end-to-end analytics workflows, including:
 ---
 
 ## Featured Projects
-[**HR Attrition Analysis (Excel Dashboard)**]() 
+[**HR Attrition Analysis (Excel Dashboard)**](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/tree/main/01_hr_attrition_analysis) 
   - Identified factors driving employee turnover
   - Built an interactive Excel dashboard for HR decision-making
   - Key insights: overtime, tenure, department, and job satisfaction influence attrition
 
-[**Loan Default Risk Analysis (SQL | Python | Power BI)**]
+[**Loan Default Risk Analysis (SQL | Python | Power BI)**](https://github.com/NonyeAnams/Business_Data_Analytics_Portfolio/tree/main/02_loan_default_risk_analysis)
   - Explored borrower characteristics and default risk
   - Built predictive models to flag high-risk loans
   - Developed a Power BI dashboard for portfolio monitoring
