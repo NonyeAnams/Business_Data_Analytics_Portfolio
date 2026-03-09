@@ -38,9 +38,19 @@ This portfolio demonstrates end-to-end analytics workflows, including:
 
 ## Other Notable Work
 Beyond the business-focused analytics in this portfolio, I’ve also completed public health analytics projects that showcase similar data skills:  
-- [Public Health Surveillance & Vaccination Analysis (SQL, Python, Power BI)](https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/tree/main/06_SQL_Health_Database_Analysis) 
-
 - [Measles Vaccination Coverage Analysis (Excel)](https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/tree/main/05_Excel_Immunization_Coverage)
+ <p align="left"> 
+   <img src="https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/blob/main/05_Excel_Immunization_Coverage/figures/dashboard_screenshoot.png" width="400">
+</p>
+
+- [Public Health Surveillance & Vaccination Analysis (SQL, Python, Power BI)](https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/tree/main/06_SQL_Health_Database_Analysis)
+<p align="left">
+  <img src="https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/blob/main/06_SQL_Health_Database_Analysis/05_powerbi_dashboard/dashboard_screenshots/dashboard_page1_disease_burden.png" width="400" />
+  <img src="https://github.com/NonyeAnams/Public_Health_Analytics_Portfolio/blob/main/06_SQL_Health_Database_Analysis/05_powerbi_dashboard/dashboard_screenshots/dashboard_page2_vaccination_system.png" width="400" />
+</p>
+
+
+
 
 
 
